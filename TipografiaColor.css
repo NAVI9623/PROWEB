@@ -1,0 +1,17 @@
+body{
+    padding: 10%;
+    font-size: 2rem;
+}
+
+p{
+    text-decoration: underline overline;
+    text-decoration-color:blue ;
+    text-transform: uppercase;
+    text-indent: 20px;
+    line-height: 1.5;
+    letter-spacing: 2px;
+    word-spacing: 5px;
+    font-weight: bold;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
