@@ -1,0 +1,26 @@
+/* Reseteando estilos por defecto */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  /* ajuste de altura minima del 100% */
+  body {
+    width: 100%;
+  }
+  /* Estilo remarcado una area en h1 */
+  h1 {
+    border: 2px dashed red;
+    width: 50%;
+    font-size: 3rem;
+    padding: 1rem;
+  }
+  
+  main {
+    min-height: 100vh;
+  }
+  
+  p {
+    font-size: 2rem;
+    width: 40ch;
+  }
